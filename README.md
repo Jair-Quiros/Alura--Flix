@@ -42,8 +42,3 @@ Garantiza una experiencia de usuario fluida y sin contratiempos.
 - [Vite](https://vitejs.dev/)
 
 
-## Author
-
-- GitHub - [Leidy Correa S (Lkiut)](https://github.com/Lkiut)
-- ONE – Oracle Next Education - [Oracle](https://www.oracle.com/lad/education/oracle-next-education/)
-- Alura LATAM - [Alura](https://www.aluracursos.com/)
