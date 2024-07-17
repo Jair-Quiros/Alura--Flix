@@ -1,4 +1,4 @@
-# Aluraflix - Challenge ONE React - Leidy Correa S
+# Aluraflix - Challenge ONE React 
 
 ![](./public/desktop.webp)
 
